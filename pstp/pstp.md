@@ -5,7 +5,7 @@
 
 ### 因資料具時間序列特性，故選擇以LSTM RNN來建模。 
 
-### Closed economy model 封閉經濟模型  
+## Closed economy model 封閉經濟模型  
 
 ### Model assumption 模型假設：Y= WX +B  
 
