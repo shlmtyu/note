@@ -5,7 +5,7 @@
 
 ### 因資料具時間序列特性，故選擇以LSTM RNN來建模。 
 
-## Closed economy model 封閉經濟模型  
+## § Closed economy model 封閉經濟模型  
 
 ### Model assumption 模型假設：Y= WX +B  
 
@@ -32,7 +32,7 @@
 #### 設計構想:利用各國股票加權指數(設計似封閉和開放經濟體系)，各國匯率和貨幣相關參數(貨幣市場)，來建立模型，更了解LSTM RNN的運作情形， 並依其關連與影響度，可再進一步依不同產業分析，建立似供應鏈的流動結構模型。
 #### Learning rate小讓loss曲線較平順的下降，但training較緩慢，訓練次數增加loss值可以在下降，training時設dropout=.5降低overfitting問題。 模型驗證偏差程度約趨近於0表示模型越好。
 
-## Small open economy model 小型開放經濟  
-## Open economy model 開放經濟
-## Market Exchange Rates 匯率市場
-## Monetary Economy 貨幣市場
+## § Small open economy model 小型開放經濟  
+## § Open economy model 開放經濟
+## § Market Exchange Rates 匯率市場
+## § Monetary Economy 貨幣市場
