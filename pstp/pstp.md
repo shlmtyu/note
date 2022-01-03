@@ -7,17 +7,18 @@
 
 ## Closed economy model 封閉經濟模型  
 
-Model assumption:$ Y= W_x +B $  
-
-Predicted model:hat_y=hat_wX+hat_b
-Good model : Min [(hat_y-Y)/N]-->0
-Input features X:tw_Open,tw_High,tw_Low,tw_Close,tw_Adj_Close
-Output label Y:next_day_High
+Model assumption 模型假設：Y= WX +B
+Predicted model預測型：y= wX+b
+Good model 預測衡量：Min [(y-Y)/N]-->0
+Input features X 輸入參數：tw_Open 開盤價,tw_High 最高價,tw_Low 最低價,tw_Close 收盤價,tw_Adj_Close調整收盤價
+Output label Y 輸出值：next_day_High 隔天最高價
 Long Short-Term Memory cell (LSTM) = 2 layers
 Neurons = 10 unit
 
 ## Small open economy model 小型開放經濟  
-
+### > Train model
+#### ![Alt text](/pstp/jpg/train_n5_u10_l2_b60_s20_lr0001_i200_p5.png)
+### >　Result:Loss maxnum= 0.03219068 ; Loss minmun= 0.0040088445
 ## Open economy model 開放經濟
 ## Market Exchange Rates 匯率市場
 ## Monetary Economy 貨幣市場
