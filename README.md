@@ -11,7 +11,7 @@
 ###### > <https://shlmtyu.github.io/note/study>
 
 ## 實作1-LSTM股價指數預測
-###### > <https://shlmtyu.github.io/note/pstp>
+###### > <https://shlmtyu.github.io/note/pstp.md>
 
 ## Tensorflow tutorials
 ###### > <https://shlmtyu.github.io/note/tftt>
