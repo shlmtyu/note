@@ -1,8 +1,11 @@
 # Joyce's note
 #AI #Deep learnong #Machine learning #LSTM # NLP #Line bot #hadoop
 
-## Line ChatBot <https://shlmtyu.github.io/note/chatbot>
-#### > <https://shlmtyu.github.io/note/chatbot>
+## Line ChatBot
+#### > <https://shlmtyu.github.io/note/chatbot>  
+
+## Hadoop
+#### > <https://shlmtyu.github.io/note/hadoop>
 
 ## OpenCV 
 #### > <https://shlmtyu.github.io/note/opencv>
