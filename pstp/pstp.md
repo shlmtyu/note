@@ -111,14 +111,14 @@
 #### 加入亞洲、歐洲和美洲...等國家的匯率，對台灣股票投資的影響， Features為21個，LSTM cell內的神經元從為21，loss值差不多小降而已，但預測偏差就大很多。
 
 ### > 調整
-#### Features為21個，LSTM cell內的神經元減為20，隱藏層增為3，模型複雜度、變異程度增，loss值略增，但預測水準有改善。
+####     Features為21個，LSTM cell內的神經元減為20，隱藏層增為3，模型複雜度、變異程度增，loss值略增，但預測水準有改善。
 ### >> Train model 訓練模型  
 #### >>　Result結果:maxnum= 0.08592842 ; Loss minmun= 0.0031158105
-##### ![Alt text](/pstp/jpg/train_n21_u20_l3_b60_s20_lr0001_i400_p5_er.png)
-
-### > Test model
-#### >　Result結果:The deviation of this predict: 0.05328915600824949
 ##### ![Alt text](/pstp/jpg/test_n21_u20_l3_b60_s20_lr0001_i400_p5_er.png)
+
+### >> Test model
+#### >>　Result結果:The deviation of this predict: 0.05328915600824949
+##### ![Alt text](/pstp/jpg/train_n21_u20_l3_b60_s20_lr0001_i400_p5_er.png)
 
 
 ## § Monetary Economy 貨幣市場  
