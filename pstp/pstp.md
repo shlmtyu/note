@@ -25,7 +25,7 @@
 ##### ![Alt text](/pstp/jpg/train_n5_u10_l2_b60_s20_lr0001_i200_p5.png)
 
 ### > Test model
-#### >　Result結果:Loss maxnum= 0.03219068 ; Loss minmun= 0.0040088445
+#### >　Result結果:The deviation of this predict: 0.00837063765409333
 ##### ![Alt text](/pstp/jpg/test_n5_u10_l2_b60_s20_lr0001_i200_p5.png)
 
 ### Conclusion結論:
