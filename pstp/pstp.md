@@ -39,8 +39,7 @@
 
 ### Good model 預測衡量：Min [(y-Y)/N]-->0  
 
-### Input features X 輸入參數：tw_Open 開盤價,tw_High 最高價,tw_Low 最低價,tw_Close 收盤價,tw_Adj_Close 調整收盤價,  
-###                           add Japan's stock index and China's  增加日本和中國的股價指數
+### Input features X 輸入參數：tw_Open 開盤價,tw_High 最高價,tw_Low 最低價,tw_Close 收盤價,tw_Adj_Close 調整收盤價, add Japan's stock index and China's  增加日本和中國的股價指數
 
 ### Output label Y 輸出值：next_day_High 隔天最高價  
 
@@ -65,8 +64,7 @@
 
 ### Good model 預測衡量：Min [(y-Y)/N]-->0  
 
-### Input features X 輸入參數：tw_Open 開盤價,tw_High 最高價,tw_Low 最低價,tw_Close 收盤價,tw_Adj_Close 調整收盤價  
-###                           add Countries's stock index 加入亞洲、歐洲和美洲...等國家的重要股票加權指數
+### Input features X 輸入參數：tw_Open 開盤價,tw_High 最高價,tw_Low 最低價,tw_Close 收盤價,tw_Adj_Close 調整收盤價, add Countries's stock index 加入亞洲、歐洲和美洲...等國家的重要股票加權指數
 
 ### Output label Y 輸出值：next_day_High 隔天最高價  
 
@@ -91,8 +89,7 @@
 
 ### Good model 預測衡量：Min [(y-Y)/N]-->0  
 
-### Input features X 輸入參數：tw_Open 開盤價,tw_High 最高價,tw_Low 最低價,tw_Close 收盤價,tw_Adj_Close 調整收盤價  
-###                           add Countries's Market Exchange Rates 加入各國的匯率
+### Input features X 輸入參數：tw_Open 開盤價,tw_High 最高價,tw_Low 最低價,tw_Close 收盤價,tw_Adj_Close 調整收盤價, add Countries's Market Exchange Rates 加入各國的匯率
 
 ### Output label Y 輸出值：next_day_High 隔天最高價  
 
@@ -128,8 +125,7 @@
 
 ### Good model 預測衡量：Min [(y-Y)/N]-->0  
 
-### Input features X 輸入參數：tw_Open 開盤價,tw_High 最高價,tw_Low 最低價,tw_Close 收盤價,tw_Adj_Close 調整收盤價  
-###                           add rate and M1A、M1B、M2 增加貨幣總計數
+### Input features X 輸入參數：tw_Open 開盤價,tw_High 最高價,tw_Low 最低價,tw_Close 收盤價,tw_Adj_Close 調整收盤價, add rate and M1A、M1B、M2 增加貨幣總計數
 
 ### Output label Y 輸出值：next_day_High 隔天最高價  
 
