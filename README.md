@@ -1,6 +1,9 @@
 # Joyce's note
 #AI #Deep learnong #Machine learning #LSTM # NLP #Line bot #hadoop
 
+## 團體專題
+#### > <https://shlmtyu.github.io/note/>  
+
 ## Line ChatBot
 #### > <https://shlmtyu.github.io/note/chatbot>  
 
