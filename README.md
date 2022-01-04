@@ -23,5 +23,5 @@
 #### > <https://reurl.cc/Vj6xAR>
 
 ## Machine Learning Crash Course from Google
-#### > <https://shlmtyu.github.io/note/mlcc>
+#### > <https://reurl.cc/qOdWg3>
 
