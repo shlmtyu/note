@@ -14,7 +14,7 @@
 #### > <https://shlmtyu.github.io/note/opencv>
 
 ## 讀書會 
-#### > <https://shlmtyu.github.io/note/study>
+#### > <https://reurl.cc/qO1Lg3>
 
 ## 實作1-LSTM股價指數預測
 #### > <https://reurl.cc/l9VWyj>
