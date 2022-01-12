@@ -8,7 +8,7 @@
 #### > <https://shlmtyu.github.io/note/chatbot>  
 
 ## Hadoop
-#### > <https://shlmtyu.github.io/note/hadoop>
+#### > <https://reurl.cc/k7Lrv3>
 
 ## OpenCV 
 #### > <https://reurl.cc/Vj5LLY>
