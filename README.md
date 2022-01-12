@@ -11,7 +11,7 @@
 #### > <https://shlmtyu.github.io/note/hadoop>
 
 ## OpenCV 
-#### > <https://shlmtyu.github.io/note/opencv>
+#### > <https://reurl.cc/Vj5LLY>
 
 ## 讀書會 
 #### > <https://reurl.cc/qO1Lg3>
