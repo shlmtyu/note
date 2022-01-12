@@ -5,6 +5,13 @@
 
 #### 因資料具時間序列特性，故選擇以LSTM RNN來建模。 
 
+#### 依序不同經濟模型來研究
+#### * Closed economy model 封閉經濟模型
+#### * Small open economy model 小型開放經濟
+#### * Open economy model 開放經濟
+#### * Market Exchange Rates 匯率市場
+#### * Monetary Economy 貨幣市場
+
 ## § Closed economy model 封閉經濟模型  
 
 ### Model assumption 模型假設：Y= WX +B  
