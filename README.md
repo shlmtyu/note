@@ -2,7 +2,7 @@
 #AI #Deep learnong #Machine learning #LSTM # NLP #Line bot #hadoop
 
 ## 團體專題
-#### > <https://shlmtyu.github.io/note/>  
+#### > <https://reurl.cc/Vj5zjZ/>  
 
 ## Line ChatBot
 #### > <https://reurl.cc/WkXxde>  
