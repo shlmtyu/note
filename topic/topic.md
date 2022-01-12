@@ -37,6 +37,24 @@
 ### 3. Line bot 結合與程式優化
 ### 4. 爬蟲能力訓練
 ### 5. 團隊合作與溝通
+四、訓練模型
+----------------
+### RandomForestClassifier 
+### Naive Bayes
+### DecisionTreeRegressor
+### NLP 特徵提取
+####  > CountVectorizer
+####  > TfidfVectorizer 
+####  > Gensim 
+### Embedding 
+### LSTM  
+### BERT adapter
+五、平台架構
+-----------
+### GCP
+
+
+
 
 
 
