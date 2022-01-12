@@ -5,7 +5,7 @@
 #### > <https://shlmtyu.github.io/note/>  
 
 ## Line ChatBot
-#### > <https://shlmtyu.github.io/note/chatbot>  
+#### > <https://reurl.cc/WkXxde>  
 
 ## Hadoop
 #### > <https://reurl.cc/k7Lrv3>
