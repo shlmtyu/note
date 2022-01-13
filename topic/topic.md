@@ -41,7 +41,6 @@
 ----------------
 ### RandomForestClassifier 
 ### Naive Bayes
-### DecisionTreeRegressor
 ### NLP 特徵提取
 ####  > CountVectorizer
 ####  > TfidfVectorizer 
