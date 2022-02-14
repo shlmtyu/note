@@ -1,7 +1,7 @@
 # Joyce's note
 #AI #Deep learnong #Machine learning #LSTM # NLP #Line bot #hadoop
 
-## 團體專題
+## [團體專題](https://reurl.cc/akNqXX)
 #### > <https://reurl.cc/akNqXX>  
 
 ## Line ChatBot
