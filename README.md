@@ -5,7 +5,7 @@
 
 ## [Line ChatBot](https://reurl.cc/WkXxde)
 
-## [Hadoop](https://reurl.cc/k7Lrv3
+## [Hadoop](https://reurl.cc/k7Lrv3)
 
 ## [OpenCV](https://reurl.cc/Vj5LLY)
 
