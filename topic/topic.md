@@ -39,15 +39,18 @@
 ### 5. 團隊合作與溝通
 四、訓練模型
 ----------------
-### RandomForestClassifier 
-### Naive Bayes
-### NLP 特徵提取
-####  > CountVectorizer
-####  > TfidfVectorizer 
-####  > Gensim 
-### Embedding 
-### LSTM  
-### BERT adapter
+### ML - 
++ Linear regression
++ MLP Regressor
++ Lasso
++ ElasticNet
++ Random Forest
++ Extra Trees
++ Decision Tree & XGBoost
++ SVM
+
+### DL - LSTM  
+### NLP 輿情分析
 五、平台架構
 -----------
 ### GCP
