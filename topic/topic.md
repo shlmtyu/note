@@ -40,9 +40,7 @@
 + Linear regression
 + MLP Regressor
 + Lasso
-+ ElasticNet
 + Random Forest
-+ Extra Trees
 + Decision Tree & XGBoost
 + SVM
 ### DL - LSTM  & NLP 文本情感分析
