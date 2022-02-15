@@ -45,9 +45,7 @@
 + Extra Trees
 + Decision Tree & XGBoost
 + SVM
-
-### DL - LSTM  
-### NLP 輿情分析
+### DL - LSTM  & NLP 文本情感分析
 五、平台架構
 -----------
 ![系統架構](./專題系統架構.png)
