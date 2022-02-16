@@ -36,6 +36,7 @@
 ### 5. 團隊合作與溝通
 四、訓練模型
 ----------------
+![訓練架構](./MLDL.png)
 ### ML - 
 + Linear regression
 + MLP Regressor
