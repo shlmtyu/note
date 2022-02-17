@@ -3,7 +3,7 @@
 
 ## [團體專題](https://github.com/shlmtyu/note/blob/cedbbf17e11a1882938f6596479e2646069760e1/topic/topic.md)
 
-## [Line ChatBot](https://reurl.cc/WkXxde)
+## [Line ChatBot](https://github.com/shlmtyu/note/blob/013e2d2f7d18595fce5833f2bd6aa731e6ee33ab/chatbot/chatbot.md)
 
 ## [Hadoop](https://reurl.cc/k7Lrv3)
 
