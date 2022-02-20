@@ -39,14 +39,14 @@
 四、訓練模型
 ----------------
 ![訓練架構](./MLDL_r2.png)
-### ML - 
+### Machine Learning - 
 + Linear regression
 + MLP Regressor
 + Lasso
 + Random Forest
 + Decision Tree & XGBoost
 + SVM
-### DL - 
+### Deep Learning - 
 + LSTM
 + GRU
 + CNN
