@@ -1,6 +1,6 @@
-[報告影片連結](https://drive.google.com/file/d/1eIdOhQBxHINFajCm5RJVCAnCGrN_iXdr/view?usp=sharing)  
+[ppt連結](https://drive.google.com/file/d/1PBjm1fxXA5WhFg68oUjSm3cfmure2RGL/view?usp=sharing)
+[報告影片連結](https://drive.google.com/file/d/1eIdOhQBxHINFajCm5RJVCAnCGrN_iXdr/view?usp=sharing)    
   
-    
 肉仔查查站
 ================
 #### 組員：周禹宏、張立欣、蔡皓融、蘇冠融
@@ -40,11 +40,7 @@
 五、平台架構
 -----------
 ![系統架構](./gcp.png)
-  
-    
-    
-      
-[ppt連結](https://drive.google.com/file/d/1PBjm1fxXA5WhFg68oUjSm3cfmure2RGL/view?usp=sharing)
+
 
 
 
