@@ -1,4 +1,4 @@
-![報告影片連結](https://drive.google.com/file/d/1eIdOhQBxHINFajCm5RJVCAnCGrN_iXdr/view?usp=sharing)  
+[報告影片連結](https://drive.google.com/file/d/1eIdOhQBxHINFajCm5RJVCAnCGrN_iXdr/view?usp=sharing)  
   
     
 肉仔查查站
@@ -44,7 +44,7 @@
     
     
       
-![ppt連結](https://drive.google.com/file/d/1PBjm1fxXA5WhFg68oUjSm3cfmure2RGL/view?usp=sharing)
+[ppt連結](https://drive.google.com/file/d/1PBjm1fxXA5WhFg68oUjSm3cfmure2RGL/view?usp=sharing)
 
 
 
