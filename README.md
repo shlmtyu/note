@@ -1,5 +1,5 @@
 # Joyce's note
-#AI #Deep learnong #Machine learning #LSTM #CNN #NLP OpenCV #Line bot #hadoop
+#AI #Deep learnong #Machine learning #LSTM #CNN #NLP #OpenCV #Line bot #hadoop
 
 ## [團體專題](https://github.com/shlmtyu/note/blob/4ecb0a094d049648b6fead60c8c32ed0af49b973/topic/topic.md)
 
