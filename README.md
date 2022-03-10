@@ -1,7 +1,7 @@
 # Joyce's note
 #AI #Deep learnong #Machine learning #LSTM #CNN #NLP #OpenCV #Line bot #hadoop
 
-## [團體專題](https://github.com/shlmtyu/note/blob/4ecb0a094d049648b6fead60c8c32ed0af49b973/topic/topic.md)
+## [團體專題](https://github.com/shlmtyu/note/blob/20255d1018777beed7cfdc61e470404b91c83e7a/topic/topic.md)
 
 ## [Line ChatBot](https://github.com/shlmtyu/note/blob/013e2d2f7d18595fce5833f2bd6aa731e6ee33ab/chatbot/chatbot.md)
 
